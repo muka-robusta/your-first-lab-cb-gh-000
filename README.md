@@ -42,7 +42,7 @@ The failure reads: `Make sure you have edited the file edit-me.txt`
 
 You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab. 
 
-## Video Demo o la la
+## Video Demo
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/MZ2vUG6p1PY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
